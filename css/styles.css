@@ -1,0 +1,277 @@
+             
+             /* all ids , class, tags are divided in different section and arranged as per order given in html  */
+
+
+
+              /* id selectors */
+
+#title {
+    background-color: #ff4c68;
+    width: 100%;
+   
+}
+
+#iphone-img {
+    transform: rotate(25deg);
+    padding: 2rem 0 4.5rem 4.5rem;
+    width: 375px;
+    position: absolute;
+    width: 60%;
+    top: -50px;
+    left: 100px;
+
+}
+
+#features {
+    
+    background-color: #fff;
+    font-size: 1.5rem;
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
+}
+
+#testimonials{
+    background-color: #ff4c68;
+    width: 100%;
+    
+    color: #fff;
+
+}
+#press{
+    padding: 5% 3%;
+    background-color: #ff4c68;
+    
+}
+#pricing{
+    padding: 7% 15%;
+    
+}
+#cta{
+    background-color: #ff4c68;
+    
+    width: 100%;
+    height: 500px;
+    padding: 7% 15%;
+
+}
+#footer{
+    height: 300px;
+    
+}
+
+                /* class selectors */
+
+
+.container-fluid {
+    padding: 3% 18%;
+    color: #fff;
+}
+.title-section{
+    text-align: left;
+}
+
+
+
+/* styles of navbar */
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-family: 'Montserrat', 'sans-serif';
+    font-size: 20px;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+
+.nav-item {
+    padding: 0 18px;
+}
+
+/* styles of download buttons */
+
+.download-btn {
+        margin-right: 3.5rem;
+}
+.btn-icon {
+        padding-right: 15px;
+}
+ 
+
+/* all styles of features */
+
+.features-icon {
+    color: #ef8172;
+    padding-bottom: 1.5rem;
+    padding-top: 2.5rem;
+
+}
+.features-icon:hover{
+    color:#ff4c68;
+}
+
+.all-features{
+    width: 33%;color: #444444;
+    padding: 3.5rem ;
+}
+
+.h3-feature {
+    font-weight: 700;
+    font-family: 'Montserrat', 'sans-serif';
+    font-size: 1.5rem;
+}
+
+.features-description {
+
+    
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #8f8f8f;
+
+}
+
+
+/* all styles of testimonials */
+
+.testimonials-title{
+    font-size: 3.5rem;font-weight: 900  ;
+    margin-bottom: 5%;
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+}
+.testimonial-name{
+    font-size: 1.5rem;
+}
+.carousel-item{
+    padding: 7% 15% ;
+
+}
+
+
+/* all styles of press  */
+
+.press-img{
+    width: 15%;
+    margin:3%;
+}
+/* all styles of pricing */
+
+.pricing-title{
+    font-family: 'Montserrat', 'sans-serif';
+    font-weight: 900;font-size: 4rem;
+}
+.price-section{
+    width: 30%;
+    line-height: 2;
+    border: #8f8f8f 1px solid;
+    margin:auto 1rem;
+    
+}
+
+.dog-name{
+    border-bottom: #8f8f8f 1px solid;
+    background-color: #EEEEEE;
+    height: 70px;
+    
+    padding-top: 1rem;
+    font-weight: 900;
+    
+}
+.dog-price{
+    font-size: 3rem;
+    margin: 1.5rem auto;
+    font-weight: 900;
+}
+
+.price-month{
+    color: #8f8f8f;
+    
+}
+.price-description{
+    color: #8f8f8f;font-weight:bold;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.signup{
+    margin:2rem auto;
+    
+}
+
+/* all foot style */
+
+.footer-heading{
+    color:#fff;
+    font-size: 4rem;
+    font-weight: 900;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 4rem;
+
+}
+.social-media{
+    color: black;
+    margin:1rem .5rem;
+    transition:.5s;
+
+}
+.social-media:hover{
+    color: #ff4c68;
+    
+}
+
+                /* tag selectors */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align:center ;
+    
+}
+
+h1 {
+    font-weight:900;
+    font-size: 3.5rem;
+    padding-bottom: 3rem;
+
+
+}
+
+@media (max-width:1304px) and (min-width:992px){
+
+    .download-btn{
+        margin-bottom: 3.5rem;
+    }
+    #iphone-img{
+        
+        position: static;
+        transform: rotate(0deg);
+        width: 100%;
+        
+    }
+
+}
+
+@media (max-width:1091px) {
+    #iphone-img{
+        position: static;
+        transform: none;
+        margin-top: 2rem;
+    }
+    .price-section{
+        margin:0 auto;
+    }
+    #free{
+        margin: 52px auto;
+    }
+    .download-cta{
+        margin-right: 56px;
+    }
+}

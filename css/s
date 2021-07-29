@@ -1,0 +1,427 @@
+[
+{
+"name": "_uetvid",
+"value": "e1e24890e72911ebab582b5a6013a938",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1660241639,
+"storeId": null
+},
+{
+"name": "YII_CSRF_TOKEN",
+"value":
+"VEt5eEJOWU9LUnd2eUljYkNuR0lFRTJiYnhMVWVaMUomsQRnaICDg63zYzs6-D0xB9juHLso
+GfJIH9Jq0sRBZw%3D%3D",
+"domain": "www.skillshare.com",
+"hostOnly": true,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": true,
+"firstPartyDomain": "",
+"storeId": null
+},
+{
+"name": "IR_gbd",
+"value": "skillshare.com",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": true,
+"firstPartyDomain": "",
+"storeId": null
+},
+{
+
+"name": "_fbp",
+"value": "fb.1.1626545269350.992788986",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1634321641,
+"storeId": null
+},
+{
+"name": "__utmc",
+"value": "99704988",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": true,
+"firstPartyDomain": "",
+"storeId": null
+},
+{
+"name": "_sctr",
+"value": "1|1626462000000",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1660731985,
+"storeId": null
+},
+{
+"name": "__stripe_mid",
+"value": "18653cd6-28fb-427f-985d-228a0e094e4bfad128",
+"domain": ".www.skillshare.com",
+
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1658081638,
+"storeId": null
+},
+{
+"name": "IR_PI",
+"value": "f865d407-1f44-3add-bc40-ea74a360ed77%7C1626632039958",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1688753640,
+"storeId": null
+},
+{
+"name": "__utma",
+"value": "99704988.1876499176.1626545263.1626545263.1626545263.1",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1689617640,
+"storeId": null
+},
+{
+"name": "__ssid",
+"value": "c0b12c229b5b0e817cb1c8f29242c84",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1752775676,
+"storeId": null
+},
+{
+"name": "__pdst",
+"value": "34f9be774bd64652bea9070f28ad4b4a",
+"domain": "www.skillshare.com",
+"hostOnly": true,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "strict",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1658081262,
+"storeId": null
+},
+{
+"name": "__qca",
+"value": "P0-5209078-1626545266302",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1660414070,
+"storeId": null
+},
+{
+"name": "__utmv",
+"value": "99704988.|1=visitor-type=user=1",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1689617640,
+"storeId": null
+},
+{
+"name": "__utmz",
+"value": "99704988.1626545263.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1642313640,
+"storeId": null
+},
+{
+"name": "_ga",
+"value": "GA1.2.1876499176.1626545263",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1689617262,
+"storeId": null
+},
+{
+"name": "_gcl_au",
+"value": "1.1.734079838.1626545262",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+
+"firstPartyDomain": "",
+"expirationDate": 1634321262,
+"storeId": null
+},
+{
+"name": "_gid",
+"value": "GA1.2.1614540665.1626545263",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1626631662,
+"storeId": null
+},
+{
+"name": "_pin_unauth",
+"value":
+"dWlkPU1EazROV1V3WkRJdE9HVmhOUzAwWVRkbUxXSTVNelF0TmpjeE1qRTJNVGcxT0dJ
+Mg",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1658081644,
+"storeId": null
+},
+{
+"name": "_scid",
+"value": "9dcb4142-8f18-41be-82b7-85873ee20469",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": true,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+
+"firstPartyDomain": "",
+"expirationDate": 1660731973,
+"storeId": null
+},
+{
+"name": "_uetsid",
+"value": "e1e1da80e72911ebbdebabf00d72f030",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1626632039,
+"storeId": null
+},
+{
+"name": "device_session_id",
+"value": "8f4ab482-8701-47c4-aea7-f39b79c516c7",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1942078441,
+"storeId": null
+},
+{
+"name": "first_landing",
+"value":
+"utm_campaign%3D%26utm_source%3D%28direct%29%26utm_medium%3D%28none%29%2
+6utm_term%3D%26referrer%3D%26referring_username%3D",
+"domain": "www.skillshare.com",
+"hostOnly": true,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+
+"firstPartyDomain": "",
+"expirationDate": 1712945261,
+"storeId": null
+},
+{
+"name": "G_ENABLED_IDPS",
+"value": "google",
+"domain": ".www.skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 253402257600,
+"storeId": null
+},
+{
+"name": "IR_4650",
+"value": "1626545639958%7C0%7C1626545639958%7C%7C",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": true,
+"firstPartyDomain": "",
+"storeId": null
+},
+{
+"name": "PHPSESSID",
+"value": "e365b1175cb91a657a16dfa8f0ced7d0",
+"domain": "www.skillshare.com",
+"hostOnly": true,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+"session": true,
+"firstPartyDomain": "",
+"storeId": null
+},
+
+{
+"name": "show-like-copy",
+"value": "0",
+"domain": "www.skillshare.com",
+"hostOnly": true,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1629137261,
+"storeId": null
+},
+{
+"name": "skillshare_user_",
+"value":
+"f8f633d95423493b5e34ed6ff1095cad1447748ca%3A4%3A%7Bi%3A0%3Bs%3A8%3A%2220
+508781%22%3Bi%3A1%3Bs%3A23%3A%22mlrmimed%40northsixty.com%22%3Bi%3A2%3Bi
+%3A7776000%3Bi%3A3%3Ba%3A4%3A%7Bs%3A8%3A%22username%22%3Bs%3A9%3A
+%22322397043%22%3Bs%3A10%3A%22login_time%22%3Bs%3A19%3A%222021-07-17%2
+018%3A13%3A53%22%3Bs%3A10%3A%22touch_time%22%3Bs%3A19%3A%222021-07-17
+%2018%3A14%3A00%22%3Bs%3A5%3A%22roles%22%3Bs%3A7%3A%22premium%22%3B
+%7D%7D",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": true,
+"httpOnly": true,
+"sameSite": "lax",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1634321641,
+"storeId": null
+},
+{
+"name": "sm_uuid",
+"value": "1626546065709",
+"domain": ".skillshare.com",
+"hostOnly": false,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "no_restriction",
+
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 253402300799,
+"storeId": null
+},
+{
+"name": "visitor_tracking",
+"value":
+"utm_campaign%3D%26utm_source%3D%28direct%29%26utm_medium%3D%28none%29%2
+6utm_term%3D%26referrer%3D%26referring_username%3D",
+"domain": "www.skillshare.com",
+"hostOnly": true,
+"path": "/",
+"secure": false,
+"httpOnly": false,
+"sameSite": "lax",
+"session": false,
+"firstPartyDomain": "",
+"expirationDate": 1629137261,
+"storeId": null
+}
+]
